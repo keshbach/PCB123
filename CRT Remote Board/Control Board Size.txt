@@ -1,0 +1,11 @@
+Minimum Remote Control Board Dimensions
+
+2 7/16" Width
+1 11/16" Height
+
+------------------------------------------------------------------------------
+
+Maximum Remote Control Board Dimensions
+
+2 15/32" Width
+1 3/4" Height
