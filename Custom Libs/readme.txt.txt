@@ -1,0 +1,1 @@
+These custom PCB 123 library component files (Custom.tax, ke_parts.slb and ke_parts.sym) should be copied into the directory C:\ProgramData\PCB123\Lib\Custom
